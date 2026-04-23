@@ -2,8 +2,8 @@
    AIO Tools 2
    Host on GitHub → serve via jsDelivr CDN
    ============================================= */
-(function(w) {
-  'use strict';
+(function (w) {
+      'use strict';
   const AIO = w.AIO = w.AIO || {};
 
   /* ------------------------------------------------------------------
